@@ -11,11 +11,11 @@
 1. Brančo “Pavadinimas” merdžinimas į master brančą (žinutėje turi atsispindėti kas, kur buvo sumerdžintas) 1,00;
 1. “Antro” failo redagavimas ir komitas 0,25;
 1. Persijungimas į “Pavadinimas” brančą 0,25;
-1. Brančo master merdžinimas į “Pavadinimas" brančą (žinutėje turi atsispindėti kas, kur buvo sumerdžintas) 1,00;
 1. “Pirmo” failo redagavimas tos pačios eilutės kaip ir master branče ir komitas 0,25;
 1. Persijungimas į master brančą 0,25;
 1. Brančo “Pavadinimas” merdžinimas į master brančą, konflikto sprendimas ir komitas (žinutėje turi atsispindėti kas, kur buvo sumerdžintas ir kokie įvyko konfliktai) 1,5;
 1. "Pirmo" failo redagavimas ir komitas 0,25;
+1. Brančo master merdžinimas į “Pavadinimas" brančą (žinutėje turi atsispindėti kas, kur buvo sumerdžintas) 1,00;
 1. Visos repositorijos su .git katalogu suarchyvavimas 0,25;
 1. Archyvo pervadinimas į "vpavarde.gz" 0,25;
 1. [Repositorijos](https://github.com/Matrooskin/akademija) forko pasidarymas GitHube 0,25;
