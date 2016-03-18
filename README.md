@@ -26,4 +26,4 @@
 1. Pull requesto sukūrimas 0,25;
 
 ###Dead line 2016-03-20 23:59;
-Rimantas Kabaila
+
